@@ -1,4 +1,7 @@
 streamlit
 pydub
 moviepy
+librosa
+matplotlib
 numpy
+spleeter
